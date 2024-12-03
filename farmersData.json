@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "1",
+    "farmerName": "Devendrabhai Govindbhai Vankar",
+    "gujName": "દેવેન્દ્રભાઈ ગોવિંદભાઈ વનકર",
+    "farmerID": "64142603279",
+    "RFID": "24_458_3766_510513_000001",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "2",
+    "farmerName": "Vankar Jayantibhai Ratnabhai",
+    "gujName": "વણકર જયંતીભાઈ રત્નાભાઈ",
+    "farmerID": "36520350982",
+    "RFID": "24_458_3766_510512_000001",
+    "landPlace": "Lalpur (Vavdi)",
+    "Status": "Panding"
+  },
+  {
+    "id": "3",
+    "farmerName": "Bharatkumar Yashvantlal Patel",
+    "gujName": "પટેલ ભરતકુમાર યશવંતલાલ",
+    "farmerID": "10233236765",
+    "RFID": "24_458_3766_510513_000002",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "4",
+    "farmerName": "Jasvantsinh Mansinh Makvana",
+    "gujName": "જસવંતસિંહ માનસિંહ મકવાણા",
+    "farmerID": "78548402136",
+    "RFID": "24_458_3766_510512_000002",
+    "landPlace": "Lalpur (Vavdi)",
+    "Status": "Panding"
+  },
+  {
+    "id": "5",
+    "farmerName": "Punjaji Kalaji Makvana",
+    "gujName": "પુંજાજી કાળાજી મકવાણા",
+    "farmerID": "35280709733",
+    "RFID": "24_458_3766_510486_000002",
+    "landPlace": "Mordungra",
+    "Status": "Panding"
+  },
+  {
+    "id": "6",
+    "farmerName": "Ashokbhai Bababhai Patel",
+    "gujName": "અશોકભાઈ બાબાભાઈ પટેલ",
+    "farmerID": "12893568390",
+    "RFID": "24_458_3766_510513_000003",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "7",
+    "farmerName": "Gandabhai Bababhai Patel",
+    "gujName": "ગંડાભાઈ બાબાભાઈ પટેલ",
+    "farmerID": "89604388852",
+    "RFID": "24_458_3766_510513_000004",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "8",
+    "farmerName": "Ashaben Amrutbhai Prajapati",
+    "gujName": "આશાબેન અમૃતભાઈ પ્રજાપતિ",
+    "farmerID": "86649271510",
+    "RFID": "24_458_3766_510481_000004 ",
+    "landPlace": "Khed",
+    "Status": "Panding"
+  },
+  {
+    "id": "9",
+    "farmerName": "Keshabhai Dajibhai Patel",
+    "gujName": "કેશાભાઈ દાજીભાઈ પટેલ",
+    "farmerID": "30914060466",
+    "RFID": "24_458_3766_510513_000005",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "10",
+    "farmerName": "Jagadishbhai Bababhai Patel",
+    "gujName": "જગદીશભાઈ બબાભાઈ પટેલ",
+    "farmerID": "82510622128",
+    "RFID": "24_458_3766_510513_000006",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "11",
+    "farmerName": "Rajeshkumar Keshabhai Patel",
+    "gujName": "પટેલ રાજેશકુમાર કેશાભાઈ",
+    "farmerID": "51581736259",
+    "RFID": "24_458_3766_510513_000007",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "12",
+    "farmerName": "Jagrutiben Bharatbhai Panchal",
+    "gujName": "જાગૃતિબેન ભરતભાઈ પંચાલ",
+    "farmerID": "14019582452",
+    "RFID": "24_458_3766_510522_000007",
+    "landPlace": "Surajpura",
+    "Status": "Panding"
+  },
+  {
+    "id": "13",
+    "farmerName": "Mulchandbhai Prabhudas Patel",
+    "gujName": "મૂલચંદભાઈ પ્રભુદાસ પટેલ",
+    "farmerID": "74991841199",
+    "RFID": "24_458_3766_510513_000008",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "14",
+    "farmerName": "Rutvik Bharatbhai Panchal",
+    "gujName": "ઋત્વિક ભારતભાઈ પંચાલ",
+    "farmerID": "87363180827",
+    "RFID": "24_458_3766_510522_000008",
+    "landPlace": "Surajpura",
+    "Status": "Panding"
+  },
+  {
+    "id": "15",
+    "farmerName": "Manjulaben Mulchandbhai Patel",
+    "gujName": "મંજુલાબેન મૂલચંદભાઈ પટેલ",
+    "farmerID": "22042560611",
+    "RFID": "24_458_3766_510513_000009",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "16",
+    "farmerName": "Jaiminkumar Govindbhai Patel",
+    "gujName": "પટેલ જૈમિનકુમાર ગોવિંદભાઈ",
+    "farmerID": "94095096426",
+    "RFID": "24_458_3766_510513_000010",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "17",
+    "farmerName": "Narayanbhai Ramabhai Prajapati",
+    "gujName": "નારાયણભાઈ રામાભાઈ પ્રજાપતિ",
+    "farmerID": "14554450383",
+    "RFID": "24_458_3766_510522_000010",
+    "landPlace": "Surajpura",
+    "Status": "Panding"
+  },
+  {
+    "id": "18",
+    "farmerName": "Kantibhai Maganbhai Patel",
+    "gujName": "કાંતિભાઈ મગનભાઈ પટેલ",
+    "farmerID": "55506690053",
+    "RFID": "24_458_3766_510513_000011",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "19",
+    "farmerName": "Amrutbhai Ramabhai Prajapati",
+    "gujName": "અમૃતભાઈ રામાભાઈ પ્રજાપતિ",
+    "farmerID": "85373825835",
+    "RFID": "24_458_3766_510522_000011",
+    "landPlace": "Surajpura",
+    "Status": "Panding"
+  },
+  {
+    "id": "20",
+    "farmerName": "Sandipkumar Bababhai Patel",
+    "gujName": "સંદીપકુમાર બબાભાઈ પટેલ",
+    "farmerID": "42134722757",
+    "RFID": "24_458_3766_510513_000012",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "21",
+    "farmerName": "Babubhai Ramabhai Prajapati",
+    "gujName": "બાબુભાઈ રામાભાઈ પ્રજાપતિ",
+    "farmerID": "80643263556",
+    "RFID": "24_458_3766_510522_000012",
+    "landPlace": "Surajpura",
+    "Status": "Panding"
+  },
+  {
+    "id": "22",
+    "farmerName": "Kamleshbkumar Keshavlal Patel",
+    "gujName": "પટેલ કમલેશકુમાર કેશવલાલ",
+    "farmerID": "30044394044",
+    "RFID": "24_458_3766_510513_000013",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "23",
+    "farmerName": "Devjibhai Kodarbhai Vankar",
+    "gujName": "દેવજીભાઈ કોદરભાઈ વણકર",
+    "farmerID": "52425253256",
+    "RFID": "24_458_3766_510522_000013",
+    "landPlace": "Surajpura",
+    "Status": "Panding"
+  },
+  {
+    "id": "24",
+    "farmerName": "Ishvarbhai Chhaganbhai Patel",
+    "gujName": "ઈશ્વરભાઈ છગનભાઈ પટેલ",
+    "farmerID": "81932872224",
+    "RFID": "24_458_3766_510513_000014",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "25",
+    "farmerName": "Alpeshbhai Bhikhabhai Patel",
+    "gujName": "અલ્પેશભાઈ ભીખાભાઈ પટેલ",
+    "farmerID": "66308042363",
+    "RFID": "24_458_3766_510513_000015",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "26",
+    "farmerName": "Rajivkumar Jayantibhai Patel",
+    "gujName": "રાજીવકુમાર જયંતીભાઇ પટેલ",
+    "farmerID": "83898634536",
+    "RFID": "24_458_3766_510513_000016",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "27",
+    "farmerName": "Ishvarbhai Maganbhai Patel",
+    "gujName": "ઈશ્વરભાઈ મગનભાઈ પટેલ",
+    "farmerID": "25646265871",
+    "RFID": "24_458_3766_510513_000017",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "28",
+    "farmerName": "Dineshbhai Nathabhai Patel",
+    "gujName": "દિનેશભાઈ નાથાભાઈ પટેલ",
+    "farmerID": "42740577908",
+    "RFID": "24_458_3766_510513_000018",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "29",
+    "farmerName": "Jigneshkumar Shankarlal Patel",
+    "gujName": "જિગ્નેશકુમાર શંકરલાલ પટેલ",
+    "farmerID": "86956373713",
+    "RFID": "24_458_3766_510513_000019",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "30",
+    "farmerName": "Bharatkumar Ramanbhai Patel",
+    "gujName": "ભરતકુમાર રમણભાઈ પટેલ",
+    "farmerID": "30107717947",
+    "RFID": "24_458_3766_510513_000020",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "31",
+    "farmerName": "Bhikhiben Ramandas Patel",
+    "gujName": "ભીખીબેન રમણદાસ પટેલ",
+    "farmerID": "50297359553",
+    "RFID": "24_458_3766_510513_000021",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "32",
+    "farmerName": "Maheshkumar Ramanbhai Patel",
+    "gujName": "પટેલ મહેશકુમાર રમણભાઈ પટેલ",
+    "farmerID": "90855956539",
+    "RFID": "24_458_3766_510513_000022",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "33",
+    "farmerName": "Kirankumar Rameshbhai Patel",
+    "gujName": "કિરણકુમાર રમેશભાઈ પટેલ",
+    "farmerID": "68958540101",
+    "RFID": "24_458_3766_510513_000023",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "34",
+    "farmerName": "Keshabhai Chhagnbhai Patel",
+    "gujName": "કેશભાઈ છગનભાઈ પટેલ",
+    "farmerID": "15998866334",
+    "RFID": "24_458_3766_510513_000024",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "35",
+    "farmerName": "Babubhai Nathabhai Patel",
+    "gujName": "બાબુભાઈ નાથાભાઈ પટેલ",
+    "farmerID": "47091809625",
+    "RFID": "24_458_3766_510513_000025",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "36",
+    "farmerName": "Rameshbhai Nathabhai Patel",
+    "gujName": "રમેશભાઈ નાથાભાઈ પટેલ",
+    "farmerID": "30948009738",
+    "RFID": "24_458_3766_510513_000026",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "37",
+    "farmerName": "Mohanbhai Punjabhai Vankar",
+    "gujName": "મોહનભાઈ પુંજાભાઈ વણકર",
+    "farmerID": "43426873895",
+    "RFID": "24_458_3766_510513_000027",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "38",
+    "farmerName": "Kalyansinh Fatesinh Makvana",
+    "gujName": "કલ્યાણસિંહ ફતેસિંહ મકવાણા",
+    "farmerID": "56965162186",
+    "RFID": "24_458_3766_510513_000028",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "39",
+    "farmerName": "Kansinh Fatesinh Makwan",
+    "gujName": "કાનસિંહ ફતેસિંહ મકવાન",
+    "farmerID": "11154492256",
+    "RFID": "24_458_3766_510513_000029",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "40",
+    "farmerName": "Jethabhai Javabhai Patel",
+    "gujName": "જેઠાભાઈ જવાભાઈ પટેલ",
+    "farmerID": "12189725652",
+    "RFID": "24_458_3766_510513_000030",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "41",
+    "farmerName": "Amarsinh Bhupatsinh Makwana",
+    "gujName": "અમરસિંહ ભૂપતસિંહ મકવાણા",
+    "farmerID": "97435803157",
+    "RFID": "24_458_3766_510513_000031",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "42",
+    "farmerName": "Rameshbhai Punjabhai Patel",
+    "gujName": "રમેશભાઈ પુંજાભાઈ પટેલ",
+    "farmerID": "58094951782",
+    "RFID": "24_458_3766_510513_000032",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "43",
+    "farmerName": "Rameshbhai Maganbhai Vankar",
+    "gujName": "રમેશભાઈ મગનભાઈ વણકર",
+    "farmerID": "14786955991",
+    "RFID": "24_458_3766_510513_000033",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "44",
+    "farmerName": "Bharatbhai Shankarbhai Patel",
+    "gujName": "ભરતભાઈ શંકરભાઈ પટેલ",
+    "farmerID": "37823684260",
+    "RFID": "24_458_3766_510513_000034",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "45",
+    "farmerName": "Ramanbhai Jivabhai Patel",
+    "gujName": "રમણભાઈ જીવાભાઈ પટેલ",
+    "farmerID": "30061536147",
+    "RFID": "24_458_3766_510513_000035",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "46",
+    "farmerName": "Kantaben Shankarbhai Patel",
+    "gujName": "કાંતાબેન શંકરભાઈ પટેલ",
+    "farmerID": "52940263437",
+    "RFID": "24_458_3766_510513_000036",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "47",
+    "farmerName": "Hasmukhbhai Punjabhai Vanakar",
+    "gujName": "હસમુખભાઈ પુંજાબાઈ વણકર",
+    "farmerID": "56046570168",
+    "RFID": "24_458_3766_510513_000037",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "48",
+    "farmerName": "Vaktusinh Bhupatsinh Makvana",
+    "gujName": "વકતુંસિંહ ભૂપતસિંહ મકવાણા",
+    "farmerID": "55877869221",
+    "RFID": "24_458_3766_510513_000038",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "49",
+    "farmerName": "Dalabhai Dhulabhai Vanakar",
+    "gujName": "વણકર દલાભાઈ ધુળાભાઈ",
+    "farmerID": "62306089738",
+    "RFID": "24_458_3766_510513_000039",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "50",
+    "farmerName": "Mahendrakumar Gunvantbhai Patel",
+    "gujName": "મહેન્દ્રકુમાર ગુણવંતભાઈ પટેલ",
+    "farmerID": "82336743600",
+    "RFID": "24_458_3766_510513_000040",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "51",
+    "farmerName": "Kamalaben Gunvantbhai Patel",
+    "gujName": "કમળાબેન ગુણવંતભાઈ પટેલ",
+    "farmerID": "69885162678",
+    "RFID": "24_458_3766_510513_000041",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "52",
+    "farmerName": "Manaharbhai Punjabhai Patel",
+    "gujName": "મનહરભાઈ પુંજાભાઈ પટેલ",
+    "farmerID": "73230906516",
+    "RFID": "24_458_3766_510513_000042",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "53",
+    "farmerName": "Punjabhai Monghabhai Vankar",
+    "gujName": "પંજાભાઈ મોંઘાભાઈ વણકર",
+    "farmerID": "85185406937",
+    "RFID": "24_458_3766_510513_000043",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "54",
+    "farmerName": "Pujesinh Babsinh Makvana",
+    "gujName": "પુજેસિંહ બબસિંહ મકવાણા",
+    "farmerID": "17398681666",
+    "RFID": "24_458_3766_510513_000044",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "55",
+    "farmerName": "Setansinh Babsinh Makvana",
+    "gujName": "સેતાનસિંહ બબસિંહ મકવાણા",
+    "farmerID": "56490278894",
+    "RFID": "24_458_3766_510513_000045",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "56",
+    "farmerName": "Maheshsinh Babsinh Makvana",
+    "gujName": "મહેશસિહ બબસિંહ મકવાણા",
+    "farmerID": "53295527741",
+    "RFID": "24_458_3766_510513_000046",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "57",
+    "farmerName": "Govindbhai Jivabhai Patel",
+    "gujName": "ગોવિંદભાઈ જીવાભાઈ પટેલ",
+    "farmerID": "61838881133",
+    "RFID": "24_458_3766_510513_000047",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "58",
+    "farmerName": "Jagadishbhai Alakhabhai Vanakar",
+    "gujName": "જગદીશભાઈ અળખાભાઈ વણકર",
+    "farmerID": "21660552542",
+    "RFID": "24_458_3766_510513_000048",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "59",
+    "farmerName": "Shantaben Alakhabhai Vanakar",
+    "gujName": "શાંતાબેન અલખાભાઈ વણકર",
+    "farmerID": "60918091709",
+    "RFID": "24_458_3766_510513_000049",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "60",
+    "farmerName": "Bhupendrasinh Takhatsinh Makvana",
+    "gujName": "ભૂપેન્દ્રસિંહ તખતસિંહ મકવાણા",
+    "farmerID": "70645016581",
+    "RFID": "24_458_3766_510513_000050",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "61",
+    "farmerName": "Champaben Takhatsinh Makwana",
+    "gujName": "ચંપાબેન તખતસિંહ મકવાણા",
+    "farmerID": "69673555353",
+    "RFID": "24_458_3766_510513_000051",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "62",
+    "farmerName": "Lalsinh Takhatsinh Makvana",
+    "gujName": "લાલસિંહ તખતસિંહ મકવાણા",
+    "farmerID": "29668613077",
+    "RFID": "24_458_3766_510513_000052",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "63",
+    "farmerName": "Harshadbhai Punjabhai Leua",
+    "gujName": "હર્ષદભાઈ પુંજાભાઇ લેઉઆ",
+    "farmerID": "89804407201",
+    "RFID": "24_458_3766_510513_000053",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "64",
+    "farmerName": "Yashavantbhai Pashabhai Patel",
+    "gujName": "યશવંતભાઈ પશાભાઈ પટેલ",
+    "farmerID": "94681105130",
+    "RFID": "24_458_3766_510513_000054",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "65",
+    "farmerName": "Manubhai Pashabhai Patel",
+    "gujName": "મનુભાઈ પશાભાઈ પટેલ",
+    "farmerID": "74385806175",
+    "RFID": "24_458_3766_510513_000055",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "66",
+    "farmerName": "Vijaysinh Ratansinh Makvana",
+    "gujName": "વિજયસિંહ રતનસિંહ મકવાણા",
+    "farmerID": "56065415319",
+    "RFID": "24_458_3766_510513_000056",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "67",
+    "farmerName": "Nareshkumar Bhagabhai Leua",
+    "gujName": "લેઉઆ નરેશકુમાર ભગાભાઈ",
+    "farmerID": "59952689299",
+    "RFID": "24_458_3766_510513_000057",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "68",
+    "farmerName": "Chiragkumar Bhagabhai Leuva",
+    "gujName": "લેઉવા ચિરાગકુમાર ભગાભાઈ",
+    "farmerID": "29246808307",
+    "RFID": "24_458_3766_510513_000058",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "69",
+    "farmerName": "Prabhabhai Devkaranbhai Panchal",
+    "gujName": "પ્રભાભાઈ દેવકરણભાઈ પંચાલ",
+    "farmerID": "48866339607",
+    "RFID": "24_458_3766_510513_000059",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "70",
+    "farmerName": "Babubhai Khatubhai Vankar",
+    "gujName": "બાબુભાઈ ખાતુભાઇ વણકર",
+    "farmerID": "16702233034",
+    "RFID": "24_458_3766_510513_000060",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "71",
+    "farmerName": "Prakashbhai Chhaganbhai Vankar",
+    "gujName": "પ્રકાશભાઈ છગનભાઈ વણકર",
+    "farmerID": "53182325757",
+    "RFID": "24_458_3766_510513_000061",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "72",
+    "farmerName": "Hiraben Chhaganbhai Vankar",
+    "gujName": "હિરાબેન છગનભાઈ વણકર",
+    "farmerID": "59928068330",
+    "RFID": "24_458_3766_510513_000062",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "73",
+    "farmerName": "Ramanbhai Khatubhai Vankar",
+    "gujName": "રમણભાઈ ખાતુભાઇ વણકર",
+    "farmerID": "76371651815",
+    "RFID": "24_458_3766_510513_000063",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "74",
+    "farmerName": "Pravinbhai Khatubhai Vankar",
+    "gujName": "પ્રવિણભાઈ ખાતુભાઇ વણકર",
+    "farmerID": "18465054105",
+    "RFID": "24_458_3766_510513_000064",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "75",
+    "farmerName": "Pradipbhai Viththalbhai Patel",
+    "gujName": "પ્રદીપભાઈ વિઠ્ઠલભાઈ પટેલ",
+    "farmerID": "29610446546",
+    "RFID": "24_458_3766_510513_000065",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "76",
+    "farmerName": "Yashvantbhai Viththalbhai Patel",
+    "gujName": "યશવંતભાઈ વિઠ્ઠલભાઈ પટેલ",
+    "farmerID": "83134466969",
+    "RFID": "24_458_3766_510513_000066",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "77",
+    "farmerName": "Manubhai Keshabhai Patel",
+    "gujName": "મનુભાઈ કેશાભાઈ પટેલ",
+    "farmerID": "40908967143",
+    "RFID": "24_458_3766_510513_000067",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "78",
+    "farmerName": "Pruthvisinh Bhavansinh Makvana",
+    "gujName": "પૃથ્વીસિંહ ભવાનસિંહ મકવાણા",
+    "farmerID": "28697601115",
+    "RFID": "24_458_3766_510513_000068",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "79",
+    "farmerName": "Rajeshsinh Rameshsinh Makwana",
+    "gujName": "રાજેશસિંહ રમેશસિંહ મકવાણા",
+    "farmerID": "22069597432",
+    "RFID": "24_458_3766_510513_000069",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "80",
+    "farmerName": "Keshuben Rameshsinh Makvana",
+    "gujName": "કેશુબેન રમેશસિંહ મકવાણા",
+    "farmerID": "98909415428",
+    "RFID": "24_458_3766_510513_000070",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "81",
+    "farmerName": "Parabatsinh Sonsinh Makwana",
+    "gujName": "પરબતસિંહ સોનસિંહ મકવાણા",
+    "farmerID": "35236319603",
+    "RFID": "24_458_3766_510513_000071",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "82",
+    "farmerName": "Arvindsinh Bhavansinh Makvana",
+    "gujName": "અરવિંદસિંહ ભવાનસિંહ મકવાણા",
+    "farmerID": "39646202673",
+    "RFID": "24_458_3766_510513_000072",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "83",
+    "farmerName": "Nishaben Ramanbhai Vanakar",
+    "gujName": "નિશાબેન રમણભાઈ વણકર",
+    "farmerID": "82555786154",
+    "RFID": "24_458_3766_510513_000073",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "84",
+    "farmerName": "Hemlataben Dasharathbhai Pandya",
+    "gujName": "પંડ્યા હેમલતાબેન દશરતભાઈ",
+    "farmerID": "51686489007",
+    "RFID": "24_458_3766_510513_000074",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "85",
+    "farmerName": "Dalapatsinh Jivatsinh Makwana",
+    "gujName": "દલપતસિંહ જીવતસિંહ મકવાણા",
+    "farmerID": "85801360710",
+    "RFID": "24_458_3766_510513_000075",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "86",
+    "farmerName": "Baluben Dalpatsinh Makvana",
+    "gujName": "બાલુબેન દલપતસિંહ મકવાણા",
+    "farmerID": "88388753467",
+    "RFID": "24_458_3766_510513_000076",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "87",
+    "farmerName": "Pratapsinh Dalapatsinh Makvana",
+    "gujName": "પ્રતાપસિંહ દલપતસિંહ મકવાણા",
+    "farmerID": "76428687506",
+    "RFID": "24_458_3766_510513_000077",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "88",
+    "farmerName": "Jagdishbhai Pashabhai Patel",
+    "gujName": "જગદીશભાઈ પશાભાઈ પટેલ",
+    "farmerID": "60760192184",
+    "RFID": "24_458_3766_510513_000078",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "89",
+    "farmerName": "Abhesinh Vajesinh Makwana",
+    "gujName": "અભેસિંહ વજેસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000079",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "90",
+    "farmerName": "Ishvarsinh Parthisinh Makwana",
+    "gujName": "ઈશ્વરસિંહ પરથીસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000080",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "91",
+    "farmerName": "Gitaben Vinodbhai Pandya",
+    "gujName": "ગીતાબેન વિનોદભાઈ પંડ્યા",
+    "farmerID": "88002790694",
+    "RFID": "24_458_3766_510513_000081",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "92",
+    "farmerName": "Bhikhabhai Kalabhai Chamar",
+    "gujName": "ભીખાભાઈ કાળાભાઈ ચમાર",
+    "farmerID": "82716631973",
+    "RFID": "24_458_3766_510513_000082",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "93",
+    "farmerName": "Hasmukhbhai Khatubhai Vankar",
+    "gujName": "હસમુખભાઈ ખાતુભાઈ વણકર",
+    "farmerID": "25414090519",
+    "RFID": "24_458_3766_510513_000083",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "94",
+    "farmerName": "Devjibhai Nathabhai Patel",
+    "gujName": "દેવજીભાઈ નાથાભાઈ પટેલ",
+    "farmerID": "12963314855",
+    "RFID": "24_458_3766_510513_000084",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "95",
+    "farmerName": "Kalabhai Khatubhai Vanakar",
+    "gujName": "કાળાભાઈ ખાતુભાઈ વણકર",
+    "farmerID": "38868805503",
+    "RFID": "24_458_3766_510513_000085",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "96",
+    "farmerName": "Mukeshbhai Jethabhai Patel",
+    "gujName": "મુકેશભાઈ જેઠાભાઈ પટેલ",
+    "farmerID": "36797663372",
+    "RFID": "24_458_3766_510513_000086",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "97",
+    "farmerName": "Ramsinh Nathusinh Makwana",
+    "gujName": "રામસિંહ નાથુસિંહ મકવાણા",
+    "farmerID": "83736479845",
+    "RFID": "24_458_3766_510513_000087",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "98",
+    "farmerName": "Dalpatsinh Punjesinh Makwana",
+    "gujName": "દલપતસિંહ પુંજેસિંહ મકવાણા",
+    "farmerID": "29717084842",
+    "RFID": "24_458_3766_510513_000088",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "99",
+    "farmerName": "Dahyabhai Maganbhai Vankar",
+    "gujName": "ડાહ્યાભાઈ મગનભાઈ વણકર",
+    "farmerID": "77299888501",
+    "RFID": "24_458_3766_510513_000089",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "100",
+    "farmerName": "Babubhai Alkhabhai Vankar",
+    "gujName": "બાબુભાઈ અળખાભાઈ વણકર",
+    "farmerID": "20934593313",
+    "RFID": "24_458_3766_510513_000090",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "101",
+    "farmerName": "Tulsibhai Javabhai Patel",
+    "gujName": "તુલસીભાઈ જવાભાઇ પટેલ",
+    "farmerID": "41392009649",
+    "RFID": "24_458_3766_510513_000091",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "102",
+    "farmerName": "Maniben Shamalbhai Vankar",
+    "gujName": "મણીબેન શામળભાઈ વણકર",
+    "farmerID": "42755739018",
+    "RFID": "24_458_3766_510513_000092",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "103",
+    "farmerName": "Chimanlal Kantilal Patel",
+    "gujName": "ચીમનલાલ કાંતિલાલ પટેલ",
+    "farmerID": "25349380227",
+    "RFID": "24_458_3766_510513_000093",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "104",
+    "farmerName": "Varshaben Chimanlal Patel",
+    "gujName": "વર્ષાબેન ચીમનલાલ પટેલ",
+    "farmerID": "53200930553",
+    "RFID": "24_458_3766_510513_000094",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "105",
+    "farmerName": "Umangkumar Chimanbhai Patel",
+    "gujName": "ઉમંગકુમાર ચીમનભાઈ પટેલ",
+    "farmerID": "60960792060",
+    "RFID": "24_458_3766_510513_000095",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "106",
+    "farmerName": "Hirabhai Shankarlal Pandya",
+    "gujName": "હીરાભાઈ શંકરલાલ પંડ્યા",
+    "farmerID": "96774461141",
+    "RFID": "24_458_3766_510513_000096",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "107",
+    "farmerName": "Karshanbhai Ugarabhai Vankar",
+    "gujName": "કરશનભાઈ ઉગરાભાઈ વણકર",
+    "farmerID": "35469820452",
+    "RFID": "24_458_3766_510513_000097",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "108",
+    "farmerName": "Jethabhai Virabhai Vankar",
+    "gujName": "જેઠાભાઈ વીરાભાઈ વણકર",
+    "farmerID": "80026197108",
+    "RFID": "24_458_3766_510513_000098",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "109",
+    "farmerName": "Jagadishbhai Maganbhai Vankar",
+    "gujName": "જગદીશભાઈ મગનભાઈ વણકર",
+    "farmerID": "59991069719",
+    "RFID": "24_458_3766_510513_000099",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "110",
+    "farmerName": "Jethbhai Motibhai Vankar",
+    "gujName": "જેઠાભાઈ મોતીભાઈ વણકર",
+    "farmerID": "56725212280",
+    "RFID": "24_458_3766_510513_000100",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "111",
+    "farmerName": "Narsinhbhai Arkhabhai Vanakar",
+    "gujName": "નરસિંહભાઈ અલખાભાઈ વણકર",
+    "farmerID": "13710197389",
+    "RFID": "24_458_3766_510513_000101",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "112",
+    "farmerName": "Balvantsinh Pruthvisinh Makwana",
+    "gujName": "બળવંતસિંહ પૃથ્વીસિંહ મકવાણા",
+    "farmerID": "85421760538",
+    "RFID": "24_458_3766_510513_000102",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "113",
+    "farmerName": "Ratansinh Balusinh Makwana",
+    "gujName": "રતનસિંહ બાબલુસિંહ મકવાણા",
+    "farmerID": "28796410841",
+    "RFID": "24_458_3766_510513_000103",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "114",
+    "farmerName": "Indiraben Hasmukhbhai Vankar",
+    "gujName": "ઇન્દિરાબેન હસમુખભાઈ વણકર",
+    "farmerID": "75536700769",
+    "RFID": "24_458_3766_510513_000104",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "115",
+    "farmerName": "Heliben Hasmukhbhai Prnami",
+    "gujName": "હેલીબેન હસમુખભાઈ પ્રણામી",
+    "farmerID": "72507115712",
+    "RFID": "24_458_3766_510513_000105",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "116",
+    "farmerName": "Maganbhai Punjabhai Vankar",
+    "gujName": "મગનભાઈ પુંજાભાઈ વણકર",
+    "farmerID": "12585058605",
+    "RFID": "24_458_3766_510513_000106",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "117",
+    "farmerName": "Jagatsinh Shankarsinh Makawana",
+    "gujName": "જગતસિંહ શંકરસિંહ મકવાણા",
+    "farmerID": "37942968182",
+    "RFID": "24_458_3766_510513_000107",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "118",
+    "farmerName": "Sonalbahen Ameetbhai Vakhariya",
+    "gujName": "સોનલબહેન અમીતભાઇ વખારિયા",
+    "farmerID": "80827019844",
+    "RFID": "24_458_3766_510513_000108",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "119",
+    "farmerName": "Ratilal Maganbhai Vanakar",
+    "gujName": "રતિલાલ મગનભાઈ વણકર",
+    "farmerID": "54990689783",
+    "RFID": "24_458_3766_510513_000109",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "120",
+    "farmerName": "Dhayabhai Punjabhai Vanakar",
+    "gujName": "ડાહ્યાભાઈ પુંજાભાઈ વણકર",
+    "farmerID": "56687819326",
+    "RFID": "24_458_3766_510513_000110",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "121",
+    "farmerName": "Dahyabhai Dajibhai Patel",
+    "gujName": "ડાહ્યાભાઈ દાજીભાઈ પટેલ",
+    "farmerID": "21411078400",
+    "RFID": "24_458_3766_510513_000111",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "122",
+    "farmerName": "Shivabhai Manabhai Vankar",
+    "gujName": "શિવાભાઈ માનાભાઈ વણકર",
+    "farmerID": "94522560769",
+    "RFID": "24_458_3766_510513_000112",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "123",
+    "farmerName": "Sonasinh Shankarsinh Makawana",
+    "gujName": "સોનાસિંહ શંકરસિંહ મકવાણા",
+    "farmerID": "36717340354",
+    "RFID": "24_458_3766_510513_000113",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "124",
+    "farmerName": "Dilipsinh Khumsinh Makvana",
+    "gujName": "દિલીપસિંહ ખુંબસિંહ મકવાણા",
+    "farmerID": "20730452529",
+    "RFID": "24_458_3766_510513_000114",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "125",
+    "farmerName": "Pareshsinh Babsinh Makvana",
+    "gujName": "પરેશસિંહ બબસિંહ મકવાણા",
+    "farmerID": "10686263487",
+    "RFID": "24_458_3766_510513_000115",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "126",
+    "farmerName": "Himatatsinh Mohansinh Makwana",
+    "gujName": "હિંમતસિંહ મોહનસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000116",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "127",
+    "farmerName": "Rajusinh Nathusinh Makwana",
+    "gujName": "રાજુસિંહ નાથુસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000117",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "128",
+    "farmerName": "Jagatsinh Sardarsinh Makwana",
+    "gujName": "જગતસિંહ સરદારસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000118",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "129",
+    "farmerName": "Jagatsinh Dipsinh Makwana",
+    "gujName": "જગતસિંહ દીપસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000119",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "130",
+    "farmerName": "Rakeshkumar Karshanbhai Rathod",
+    "gujName": "રાકેશકુમાર કરશનભાઈ રાઠોડ",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000120",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "131",
+    "farmerName": "Amratben Dhulsinh Makvana",
+    "gujName": "અમરતબેન ધુલસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000121",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "132",
+    "farmerName": "Arkhabhai Virabhai Vankar",
+    "gujName": "અરખાભાઈ વીરાભાઇ વણકર",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000122",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "133",
+    "farmerName": "Balusinh Keshrisinh Makvana",
+    "gujName": "બાલુસિંહ કેશરીસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000123",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "134",
+    "farmerName": "Bhaveshkumar Yashavantbhai Patel",
+    "gujName": "ભાવેશકુમાર યશવંતભાઈ પટેલ",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000124",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "135",
+    "farmerName": "Yashavantlal Kantilal Patel",
+    "gujName": "યશવંતલાલ કાંતિલાલ પટેલ",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000125",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "136",
+    "farmerName": "Dixit Prakashbhai Patel",
+    "gujName": "પટેલ દિક્ષિત પ્રકાશભાઈ",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000126",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "137",
+    "farmerName": "Chandrikaben Prakashbhai Patel",
+    "gujName": "ચંદ્રિકાબેન પ્રકાશભાઈ પટેલ",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000127",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "138",
+    "farmerName": "Devjibhai Javabhai Patel",
+    "gujName": "દેવજીભાઈ જવાભાઈ પટેલ",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000128",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "139",
+    "farmerName": "Manguben Mohanbhai Panchal",
+    "gujName": "મંગુબેન મોહનભાઈ પંચાલ",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000129",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "140",
+    "farmerName": "Jagatsinh Dalpatsinh Makvana",
+    "gujName": "જગતસિંહ દલપતસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000130",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "141",
+    "farmerName": "Abhesinh Dhulsinh Makwana",
+    "gujName": "અભેસીંહ ધુળસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000131",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "142",
+    "farmerName": "Goswami Maheshpuri Ishwarpuri",
+    "gujName": "ગોસ્વામી મહેશપુરી ઈશ્વરપુરી",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510271_000007",
+    "landPlace": "Siholi",
+    "Status": "Panding"
+  },
+  {
+    "id": "143",
+    "farmerName": "Govindbhai Nathabhai Patel",
+    "gujName": "ગોવિંદભાઈ નાથાભાઈ પટેલ",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000132",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "144",
+    "farmerName": "Dasharathsinh Balusinh Makwana",
+    "gujName": "દશરથસિંહ બાલુસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000133",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "145",
+    "farmerName": "Prabhaji Javanji Makwana",
+    "gujName": "પ્રભાજી જવાનજી મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000134",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "146",
+    "farmerName": "Champaben Viththalbhai Pandya",
+    "gujName": "ચંપાબેન વિઠ્ઠલભાઈ પંડ્યા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000135",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "147",
+    "farmerName": "Dahiben Danabhai Vankar",
+    "gujName": "ડાહીબેન દાનાભાઈ વણકર",
+    "farmerID": "Soon...",
+    "RFID": "24_672_3764_510268_000149",
+    "landPlace": "Vanzar",
+    "Status": "Panding"
+  },
+  {
+    "id": "148",
+    "farmerName": "Danabhai Motibhai Vanakar",
+    "gujName": "દાનભાઈ મોતીભાઈ વણકર",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000136",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "149",
+    "farmerName": "Dharmabhai Mulabhai Vankar",
+    "gujName": "ધર્માભાઈ મુળાભાઈ વણકર",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000139",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  }
+]
