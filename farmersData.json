@@ -1402,5 +1402,23 @@
     "RFID": "24_458_3768_510653_000047",
     "landPlace": "Fojivada",
     "Status": "Panding"
+  },
+  {
+    "id": "157",
+    "farmerName": "Dahiben Babubhai Vanakar",
+    "gujName": "ઉદાબેન વિક્રમસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3767_510632_000099",
+    "landPlace": "Bobha",
+    "Status": "Panding"
+  },
+  {
+    "id": "158",
+    "farmerName": "Vikramsinh Balusinh Makvana",
+    "gujName": "વિક્રમસિંહ બાલુસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000147",
+    "landPlace": "Fojivada",
+    "Status": "Panding"
   }
 ]
