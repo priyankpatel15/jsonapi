@@ -1357,5 +1357,32 @@
     "RFID": "24_458_3766_510513_000141",
     "landPlace": "Vavdi",
     "Status": "Panding"
+  },
+  {
+    "id": "152",
+    "farmerName": "Amichandbhai Nathabhai Patel",
+    "gujName": "અમિચંદભાઈ નાથાભાઈ પટેલ",
+    "farmerID": "79701193370",
+    "RFID": "24_458_3766_510522_000041",
+    "landPlace": "Siholi",
+    "Status": "Panding"
+  },
+  {
+    "id": "153",
+    "farmerName": "Jasvantsinh Balusinh Makvana",
+    "gujName": "જસવંતસિંહ બાલુસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000145",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
+  },
+  {
+    "id": "154",
+    "farmerName": "Jiviben Balusinh Makvana",
+    "gujName": "જીવિબેન બાલુસિંહ મકવાણા",
+    "farmerID": "Soon...",
+    "RFID": "24_458_3766_510513_000146",
+    "landPlace": "Vavdi",
+    "Status": "Panding"
   }
 ]
