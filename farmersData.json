@@ -1438,5 +1438,14 @@
     "RFID": "24_458_3766_510513_000149",
     "landPlace": "Vavdi",
     "Status": "Pending"
+  },
+  {
+    "id": "161",
+    "farmerName": "Jagdishbhai Maganbhai Patel",
+    "gujName": "જગદીશભાઈ મગનભાઈ પટેલ",
+    "farmerID": "Soon",
+    "RFID": "24_458_3766_510522_000054",
+    "landPlace": "Surajpura",
+    "Status": "Pending"
   }
 ]
