@@ -1429,5 +1429,14 @@
     "RFID": "24_458_3766_510577_000013",
     "landPlace": "Nikoda",
     "Status": "Pending"
+  },
+  {
+    "id": "160",
+    "farmerName": "Rupaben Virabhai Vankar",
+    "gujName": "રૂપાબેન વીરાભાઈ વણકર",
+    "farmerID": "Soon",
+    "RFID": "24_458_3766_510513_000149",
+    "landPlace": "Vavdi",
+    "Status": "Pending"
   }
 ]
