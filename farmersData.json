@@ -1465,5 +1465,32 @@
     "RFID": "24_458_3766_510485_005022",
     "landPlace": "Champlanar",
     "Status": "Pending"
+  },
+  {
+    "id": "164",
+    "farmerName": "Rohitkumar Mathurbhai Patel",
+    "gujName": "પટેલ રોહિતકુમાર મથુરભાઈ",
+    "farmerID": "Soon",
+    "RFID": "24_458_3766_510485_005026",
+    "landPlace": "Champlanar",
+    "Status": "Pending"
+  },
+  {
+    "id": "165",
+    "farmerName": "Mathurbhai Nathabhai Patel",
+    "gujName": "મથુરભાઈ નાથાભાઈ પટેલ",
+    "farmerID": "Soon",
+    "RFID": "24_458_3766_510485_005027",
+    "landPlace": "Champlanar",
+    "Status": "Pending"
+  },
+  {
+    "id": "166",
+    "farmerName": "Aalusinh Kesharisinh Makwana",
+    "gujName": "આલુસિંહ કેશરિસિંહ મકવાણા",
+    "farmerID": "Soon",
+    "RFID": "24_458_3766_510513_005020",
+    "landPlace": "Vavdi",
+    "Status": "Pending"
   }
 ]
